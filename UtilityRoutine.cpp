@@ -3,25 +3,25 @@
 void split(char* message, Eigen::MatrixXd &covMatrix)
 {
 	char message_t[500];
-	strncpy_s(message_t, message, strlen(message));
+	strncpy(message_t, message, strlen(message));
 	char *p = NULL, *pNext = NULL;
 	vector<char*> Cov_row;
 	vector<char*> Cov_unit;
 
-	p = strtok_s(message_t, ";", &pNext);
+	p = strtok_r(message_t, ";", &pNext);
 	while (p != NULL)
 	{
 		Cov_row.push_back(p);
-		p = strtok_s(NULL, ";", &pNext);
+		p = strtok_r(NULL, ";", &pNext);
 	}
 
 	for (int i = 0; i < Cov_row.size(); i++)
 	{
-		p = strtok_s(Cov_row[i], " ", &pNext);
+		p = strtok_r(Cov_row[i], " ", &pNext);
 		while (p != NULL)
 		{
 			Cov_unit.push_back(p);
-			p = strtok_s(NULL, " ", &pNext);
+			p = strtok_r(NULL, " ", &pNext);
 		}
 	}
 
@@ -38,14 +38,14 @@ void split(char* message, Eigen::MatrixXd &covMatrix)
 void split_vector(char* message, Eigen::VectorXd &Vector)
 {
 	char message_t[500];
-	strncpy_s(message_t, message, strlen(message));
+	strncpy(message_t, message, strlen(message));
 	char* p = NULL, *pNext = NULL;
 	vector<char*> elements;
-	p = strtok_s(message_t, " ", &pNext);
+	p = strtok_r(message_t, " ", &pNext);
 	while (p != NULL)
 	{
 		elements.push_back(p);
-		p = strtok_s(NULL, " ", &pNext);
+		p = strtok_r(NULL, " ", &pNext);
 	}
 	for (int i = 0; i < elements.size(); i++)
 	{

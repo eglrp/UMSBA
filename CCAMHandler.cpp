@@ -503,7 +503,7 @@ void CAMHandler::endElement(const XMLCh *const uri, const XMLCh *const localname
 	// compare the message from tag and the character of x min, if they are the same, set bxMin as false
 	if (strcmp(message, cxMin) == 0)
 	{
-		bxMin == false;
+		bxMin = false;
 	}
 
 	// compare the message from tag and the character of x max, if they are the same, set bxMax as false

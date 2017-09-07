@@ -93,6 +93,5 @@ int readXML(char *xmlFile, char *handlerRef){
 
 	delete parser;
 	//delete defaultHandler;
-
-
+    return 0;
 }

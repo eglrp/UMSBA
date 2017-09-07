@@ -17,33 +17,31 @@ bool completeOutput = true;
 
 
 int main(int argc, char *argv[]) {
-
-
 	//Set number of precision
 	setprecision(50);
 
 	std::cout << "This compiles!!!!" << std::endl;
 
-	readXML("prj.xml", "prj");
+	readXML("/Users/wxiong11/Documents/xcodeProjects/UMSAT/prj.xml", "prj");
 	std::cout << "PRJ Done" << std::endl;
-	readXML("icf.xml", "icf");
+	readXML("/Users/wxiong11/Documents/xcodeProjects/UMSAT/icf.xml", "icf");
 	std::cout << "ICF Done" << std::endl;
-	readXML("cam.xml", "cam");
+	readXML("/Users/wxiong11/Documents/xcodeProjects/UMSAT/cam.xml", "cam");
 	std::cout << "CAM Done" << std::endl;
-	readXML("gcp.xml", "gcp");
+	readXML("/Users/wxiong11/Documents/xcodeProjects/UMSAT/gcp.xml", "gcp");
 	std::cout << "GCP Done" << std::endl;
 	imageBlock->getSinglePointID();
-	readXML("gps.xml", "gps");
+	readXML("/Users/wxiong11/Documents/xcodeProjects/UMSAT/gps.xml", "gps");
 	std::cout << "GPS Done" << std::endl;
 	if (distanceAvailable)
 	{
-		readXML("dis.xml", "dis");
+		readXML("/Users/wxiong11/Documents/xcodeProjects/UMSAT/dis.xml", "dis");
 		std::cout << "DIS Done" << std::endl;
 	}
 
 	if (patchAvailable)
 	{
-		readXML("pcf.xml", "pcf");
+		readXML("/Users/wxiong11/Documents/xcodeProjects/UMSAT/pcf.xml", "pcf");
 		std::cout << "PCF Done" << std::endl;
 	}
 	imageBlock->writeSummary();

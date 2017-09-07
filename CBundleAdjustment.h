@@ -79,7 +79,7 @@ public:
 	void Checkforconstantparams(ceres::Problem * problem, double * X, double *stdX, const int blocksize, const int nblocks, const double scaleSigma, vector<int> &check);
 	void getReferenceCameraIndex(const char* refCameraID, int &camIndex);
 	void getGPSTimeTagIndex(double GPSTimeTag, int &gpsIndex);
-	void CBundleAdjustment::getGPSTimeListIndex(double GPSTimeTag, double *gpsTimes, int &gpsIndex);
+	void getGPSTimeListIndex(double GPSTimeTag, double *gpsTimes, int &gpsIndex);
 	void AddParameterBlocks(ceres::Problem * problem, double * X, const int blocksize, const int nblocks);
 	//void createRotationMatrixFromOmegaPhiKappa(const double* angles, Eigen::Matrix3d &rotationMatrix);
 	void findImagePointPosition(int order, int nOriImages, double time, double *oriTimes, int &startPosition);

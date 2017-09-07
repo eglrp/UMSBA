@@ -5,8 +5,7 @@
 #include <fstream>
 #include <utility>
 #include <vector>
-#include "cv.h"
-#include "highgui.h"
+#include <opencv2/highgui.hpp>
 #include <opencv2/opencv.hpp>
 #include <algorithm>
 
@@ -837,7 +836,8 @@ void CBundleAdjustment::createAndSolveCeresProblem(){
 		}
 
 		ceres::Covariance::Options covarianceOptions;
-		covarianceOptions.algorithm_type = ceres::CovarianceAlgorithmType::SUITE_SPARSE_QR;
+        covarianceOptions.sparse_linear_algebra_library_type = ceres::SparseLinearAlgebraLibraryType::EIGEN_SPARSE;
+		covarianceOptions.algorithm_type = ceres::CovarianceAlgorithmType::SPARSE_QR;
 		//Setting adapted from Mehdi's code
 		covarianceOptions.min_reciprocal_condition_number = 1e-200;
 		covarianceOptions.num_threads = solverOptions.num_threads;
@@ -1168,7 +1168,7 @@ void CBundleAdjustment::createAndSolveCeresProblem(){
 		// release the memory
 		for (int i = 0; i < numberOfUnknowns; i++)
 			delete covarianceMatrix[i];
-		delete covarianceMatrix;
+		delete[] covarianceMatrix;
 
 		//for (int i = 0; i < numberOfBodyFrames; i++)
 		//	covarianceBlocks.push_back(make_pair(bframes + i*BFrameBlockSize, bframes + i*BFrameBlockSize));
