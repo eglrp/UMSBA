@@ -1,0 +1,289 @@
+<Object>	<Point>
+		<PointID>11</PointID>
+		<X>0.3</X>
+		<Y>-0.18</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>12</PointID>
+		<X>0.2</X>
+		<Y>-0.18</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>13</PointID>
+		<X>0.1</X>
+		<Y>-0.18</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>14</PointID>
+		<X>0</X>
+		<Y>-0.18</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>15</PointID>
+		<X>-0.1</X>
+		<Y>-0.18</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>16</PointID>
+		<X>-0.2</X>
+		<Y>-0.18</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>17</PointID>
+		<X>-0.3</X>
+		<Y>-0.18</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>18</PointID>
+		<X>-4.00000000e-001</X>
+		<Y>-1.70362931e-001</Y>
+		<Z> 0.00000000e+000</Z>
+		<XYZCovariance>1.00E-09 0.00E+00 0.00E+00;0.00E+00 1.00E-09 0.00E+00;0.00E+00 0.00E+00 1.00E-09</XYZCovariance>
+</Point>	<Point>
+		<PointID>21</PointID>
+		<X>0.3</X>
+		<Y>-0.09</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>22</PointID>
+		<X>0.2</X>
+		<Y>-0.09</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>23</PointID>
+		<X>0.1</X>
+		<Y>-0.09</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>24</PointID>
+		<X>0</X>
+		<Y>-0.09</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>25</PointID>
+		<X>-0.1</X>
+		<Y>-0.09</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>26</PointID>
+		<X>-0.2</X>
+		<Y>-0.09</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>27</PointID>
+		<X>-0.3</X>
+		<Y>-0.09</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>28</PointID>
+		<X>-0.4</X>
+		<Y>-0.09</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>31</PointID>
+		<X>3.17605318e-001</X>
+		<Y> 1.52707398e-002</Y>
+		<Z> 0.00000000e+000</Z>
+		<XYZCovariance>1.00E-09 0.00E+00 0.00E+00;0.00E+00 1.00E-09 0.00E+00;0.00E+00 0.00E+00 1.00E-09</XYZCovariance>
+</Point>	<Point>
+		<PointID>32</PointID>
+		<X>0.2</X>
+		<Y>0</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>33</PointID>
+		<X>0.1</X>
+		<Y>0</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>34</PointID>
+		<X>0</X>
+		<Y>0</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>35</PointID>
+		<X>-0.1</X>
+		<Y>0</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>36</PointID>
+		<X>-0.2</X>
+		<Y>0</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>37</PointID>
+		<X>-0.3</X>
+		<Y>0</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>38</PointID>
+		<X>-0.4</X>
+		<Y>0</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>41</PointID>
+		<X>0.3</X>
+		<Y>0.09</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>42</PointID>
+		<X>0.2</X>
+		<Y>0.09</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>43</PointID>
+		<X>0.1</X>
+		<Y>0.09</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>44</PointID>
+		<X>0</X>
+		<Y>0.09</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>45</PointID>
+		<X>-0.1</X>
+		<Y>0.09</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>46</PointID>
+		<X>-0.2</X>
+		<Y>0.09</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>47</PointID>
+		<X>-0.3</X>
+		<Y>0.09</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>48</PointID>
+		<X>-0.4</X>
+		<Y>0.09</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>51</PointID>
+		<X>0.3</X>
+		<Y>0.18</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>52</PointID>
+		<X>0.2</X>
+		<Y>0.18</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>53</PointID>
+		<X>0.1</X>
+		<Y>0.18</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>54</PointID>
+		<X>0</X>
+		<Y>0.18</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>55</PointID>
+		<X>-0.1</X>
+		<Y>0.18</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>56</PointID>
+		<X>-0.2</X>
+		<Y>0.18</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>57</PointID>
+		<X>-0.3</X>
+		<Y>0.18</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>58</PointID>
+		<X>-0.4</X>
+		<Y>0.18</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>61</PointID>
+		<X>0.3</X>
+		<Y>0.27</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>62</PointID>
+		<X>0.2</X>
+		<Y>0.27</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>63</PointID>
+		<X>0.1</X>
+		<Y>0.27</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>64</PointID>
+		<X>0</X>
+		<Y>0.27</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>65</PointID>
+		<X>-0.1</X>
+		<Y>0.27</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>66</PointID>
+		<X>-0.2</X>
+		<Y>0.27</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>67</PointID>
+		<X>-0.3</X>
+		<Y>0.27</Y>
+		<Z>0</Z>
+		<XYZCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07</XYZCovariance>
+</Point>	<Point>
+		<PointID>68</PointID>
+		<X>-4.00000000e-001</X>
+		<Y> 2.70000000e-001</Y>
+		<Z> 0.00000000e+000</Z>
+		<XYZCovariance>1.00E-09 0.00E+00 0.00E+00;0.00E+00 1.00E-09 0.00E+00;0.00E+00 0.00E+00 1.00E-09</XYZCovariance>
+</Point></Object>

@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<CameraBlock>
+<Camera>
+<CameraID>4</CameraID>
+<CameraType>FRAME</CameraType>
+<ReferenceCameraID>4</ReferenceCameraID>
+<xp>0.0</xp>
+<yp>0.0</yp>
+<c>30.0</c>
+<xycCovariance>1.0e+9 0.0 0.0;0.0 1.0e+9 0.0;0.0 0.0 1.0e+9</xycCovariance>
+<DistortionModel def="1=UofC, 2=SMAC, 3=PCI">1</DistortionModel>
+<NumberOfParameters>6</NumberOfParameters>
+<DistortionParameters>0.0 0.0 0.0 0.0 0.0 0.0</DistortionParameters>
+<DistortionCovariance>1.0e+9 0.0 0.0 0.0 0.0 0.0;0.0 1.0e+9 0.0 0.0 0.0 0.0;0.0 0.0 1.0e-06 0.0 0.0 0.0;0.0 0.0 0.0 1.0e-06 0.0 0.0;0.0 0.0 0.0 0.0 1.0e-06 0.0;0.0 0.0 0.0 0.0 0.0 1.0e-06</DistortionCovariance>
+<MountingParameters>
+<BoreSight>
+<Omega>0.0</Omega>
+<Phi>0.0</Phi>
+<Kappa>0.0</Kappa>
+<BoreSightCovariance>1.0e-06 0.0 0.0;0.0 1.0e-06 0.0;0.0 0.0 1.0e-06</BoreSightCovariance>
+</BoreSight>
+<LeverArm>
+<X>0.0</X>
+<Y>0.0</Y>
+<Z>0.0</Z>
+<LeverArmCovariance>1.0e-06 0.0 0.0;0.0 1.0e-06 0.0;0.0 0.0 1.0e-06</LeverArmCovariance>
+</LeverArm>
+</MountingParameters>
+</Camera>
+<Camera>
+<CameraID>5</CameraID>
+<CameraType>FRAME</CameraType>
+<ReferenceCameraID>4</ReferenceCameraID>
+<xp>0.0</xp>
+<yp>0.0</yp>
+<c>30.0</c>
+<xycCovariance>1.0e+9 0.0 0.0;0.0 1.0e+9 0.0;0.0 0.0 1.0e+9</xycCovariance>
+<DistortionModel def="1=UofC, 2=SMAC, 3=PCI">1</DistortionModel>
+<NumberOfParameters>6</NumberOfParameters>
+<DistortionParameters>0.0 0.0 0.0 0.0 0.0 0.0</DistortionParameters>
+<DistortionCovariance>1.0e+9 0.0 0.0 0.0 0.0 0.0;0.0 1.0e+9 0.0 0.0 0.0 0.0;0.0 0.0 1.0e-06 0.0 0.0 0.0;0.0 0.0 0.0 1.0e-06 0.0 0.0;0.0 0.0 0.0 0.0 1.0e-06 0.0;0.0 0.0 0.0 0.0 0.0 1.0e-06</DistortionCovariance>
+<MountingParameters>
+<BoreSight>
+<Omega>15.0</Omega>
+<Phi>0.0</Phi>
+<Kappa>0.0</Kappa>
+<BoreSightCovariance>1.0e+9 0.0 0.0;0.0 1.0e+9 0.0;0.0 0.0 1.0e+9</BoreSightCovariance>
+</BoreSight>
+<LeverArm>
+<X>0.0</X>
+<Y>-0.3</Y>
+<Z>-0.05</Z>
+<LeverArmCovariance>1.0e+9 0.0 0.0;0.0 1.0e+9 0.0;0.0 0.0 1.0e+9</LeverArmCovariance>
+</LeverArm>
+</MountingParameters>
+</Camera>
+<Camera>
+<CameraID>6</CameraID>
+<CameraType>FRAME</CameraType>
+<ReferenceCameraID>4</ReferenceCameraID>
+<xp>0.0</xp>
+<yp>0.0</yp>
+<c>30.0</c>
+<xycCovariance>1.0e+9 0.0 0.0;0.0 1.0e+9 0.0;0.0 0.0 1.0e+9</xycCovariance>
+<DistortionModel def="1=UofC, 2=SMAC, 3=PCI">1</DistortionModel>
+<NumberOfParameters>6</NumberOfParameters>
+<DistortionParameters>0.0 0.0 0.0 0.0 0.0 0.0</DistortionParameters>
+<DistortionCovariance>1.0e+9 0.0 0.0 0.0 0.0 0.0;0.0 1.0e+9 0.0 0.0 0.0 0.0;0.0 0.0 1.0e-06 0.0 0.0 0.0;0.0 0.0 0.0 1.0e-06 0.0 0.0;0.0 0.0 0.0 0.0 1.0e-06 0.0;0.0 0.0 0.0 0.0 0.0 1.0e-06</DistortionCovariance>
+<MountingParameters>
+<BoreSight>
+<Omega>27.0</Omega>
+<Phi>0.0</Phi>
+<Kappa>0.0</Kappa>
+<BoreSightCovariance>1.0e+9 0.0 0.0;0.0 1.0e+9 0.0;0.0 0.0 1.0e+9</BoreSightCovariance>
+</BoreSight>
+<LeverArm>
+<X>0.0</X>
+<Y>-0.5</Y>
+<Z>-0.2</Z>
+<LeverArmCovariance>1.0e+9 0.0 0.0;0.0 1.0e+9 0.0;0.0 0.0 1.0e+9</LeverArmCovariance>
+</LeverArm>
+</MountingParameters>
+</Camera>
+<Camera>
+<CameraID>7</CameraID>
+<CameraType>FRAME</CameraType>
+<ReferenceCameraID>4</ReferenceCameraID>
+<xp>0.0</xp>
+<yp>0.0</yp>
+<c>30.0</c>
+<xycCovariance>1.0e+9 0.0 0.0;0.0 1.0e+9 0.0;0.0 0.0 1.0e+9</xycCovariance>
+<DistortionModel def="1=UofC, 2=SMAC, 3=PCI">1</DistortionModel>
+<NumberOfParameters>6</NumberOfParameters>
+<DistortionParameters>0.0 0.0 0.0 0.0 0.0 0.0</DistortionParameters>
+<DistortionCovariance>1.0e+9 0.0 0.0 0.0 0.0 0.0;0.0 1.0e+9 0.0 0.0 0.0 0.0;0.0 0.0 1.0e-06 0.0 0.0 0.0;0.0 0.0 0.0 1.0e-06 0.0 0.0;0.0 0.0 0.0 0.0 1.0e-06 0.0;0.0 0.0 0.0 0.0 0.0 1.0e-06</DistortionCovariance>
+<MountingParameters>
+<BoreSight>
+<Omega>15.0</Omega>
+<Phi>0.0</Phi>
+<Kappa>0.0</Kappa>
+<BoreSightCovariance>1.0e+9 0.0 0.0;0.0 1.0e+9 0.0;0.0 0.0 1.0e+9</BoreSightCovariance>
+</BoreSight>
+<LeverArm>
+<X>0.0</X>
+<Y>-0.7</Y>
+<Z>-0.45</Z>
+<LeverArmCovariance>1.0e+9 0.0 0.0;0.0 1.0e+9 0.0;0.0 0.0 1.0e+9</LeverArmCovariance>
+</LeverArm>
+</MountingParameters>
+</Camera>
+<Camera>
+<CameraID>3</CameraID>
+<CameraType>FRAME</CameraType>
+<ReferenceCameraID>4</ReferenceCameraID>
+<xp>0.0</xp>
+<yp>0.0</yp>
+<c>30.0</c>
+<xycCovariance>1.0e+9 0.0 0.0;0.0 1.0e+9 0.0;0.0 0.0 1.0e+9</xycCovariance>
+<DistortionModel def="1=UofC, 2=SMAC, 3=PCI">1</DistortionModel>
+<NumberOfParameters>6</NumberOfParameters>
+<DistortionParameters>0.0 0.0 0.0 0.0 0.0 0.0</DistortionParameters>
+<DistortionCovariance>1.0e+9 0.0 0.0 0.0 0.0 0.0;0.0 1.0e+9 0.0 0.0 0.0 0.0;0.0 0.0 1.0e-06 0.0 0.0 0.0;0.0 0.0 0.0 1.0e-06 0.0 0.0;0.0 0.0 0.0 0.0 1.0e-06 0.0;0.0 0.0 0.0 0.0 0.0 1.0e-06</DistortionCovariance>
+<MountingParameters>
+<BoreSight>
+<Omega>-12.0</Omega>
+<Phi>0.0</Phi>
+<Kappa>0.0</Kappa>
+<BoreSightCovariance>1.0e+9 0.0 0.0;0.0 1.0e+9 0.0;0.0 0.0 1.0e+9</BoreSightCovariance>
+</BoreSight>
+<LeverArm>
+<X>0.0</X>
+<Y>0.3</Y>
+<Z>-0.05</Z>
+<LeverArmCovariance>1.0e+9 0.0 0.0;0.0 1.0e+9 0.0;0.0 0.0 1.0e+9</LeverArmCovariance>
+</LeverArm>
+</MountingParameters>
+</Camera>
+<Camera>
+<CameraID>2</CameraID>
+<CameraType>FRAME</CameraType>
+<ReferenceCameraID>4</ReferenceCameraID>
+<xp>0.0</xp>
+<yp>0.0</yp>
+<c>30.0</c>
+<xycCovariance>1.0e+9 0.0 0.0;0.0 1.0e+9 0.0;0.0 0.0 1.0e+9</xycCovariance>
+<DistortionModel def="1=UofC, 2=SMAC, 3=PCI">1</DistortionModel>
+<NumberOfParameters>6</NumberOfParameters>
+<DistortionParameters>0.0 0.0 0.0 0.0 0.0 0.0</DistortionParameters>
+<DistortionCovariance>1.0e+9 0.0 0.0 0.0 0.0 0.0;0.0 1.0e+9 0.0 0.0 0.0 0.0;0.0 0.0 1.0e-06 0.0 0.0 0.0;0.0 0.0 0.0 1.0e-06 0.0 0.0;0.0 0.0 0.0 0.0 1.0e-06 0.0;0.0 0.0 0.0 0.0 0.0 1.0e-06</DistortionCovariance>
+<MountingParameters>
+<BoreSight>
+<Omega>-27.0</Omega>
+<Phi>0.0</Phi>
+<Kappa>0.0</Kappa>
+<BoreSightCovariance>1.0e+9 0.0 0.0;0.0 1.0e+9 0.0;0.0 0.0 1.0e+9</BoreSightCovariance>
+</BoreSight>
+<LeverArm>
+<X>0.0</X>
+<Y>0.55</Y>
+<Z>-0.20</Z>
+<LeverArmCovariance>1.0e+9 0.0 0.0;0.0 1.0e+9 0.0;0.0 0.0 1.0e+9</LeverArmCovariance>
+</LeverArm>
+</MountingParameters>
+</Camera>
+<Camera>
+<CameraID>1</CameraID>
+<CameraType>FRAME</CameraType>
+<ReferenceCameraID>4</ReferenceCameraID>
+<xp>0.0</xp>
+<yp>0.0</yp>
+<c>30.0</c>
+<xycCovariance>1.0e+9 0.0 0.0;0.0 1.0e+9 0.0;0.0 0.0 1.0e+9</xycCovariance>
+<DistortionModel def="1=UofC, 2=SMAC, 3=PCI">1</DistortionModel>
+<NumberOfParameters>6</NumberOfParameters>
+<DistortionParameters>0.0 0.0 0.0 0.0 0.0 0.0</DistortionParameters>
+<DistortionCovariance>1.0e+9 0.0 0.0 0.0 0.0 0.0;0.0 1.0e+9 0.0 0.0 0.0 0.0;0.0 0.0 1.0e-06 0.0 0.0 0.0;0.0 0.0 0.0 1.0e-06 0.0 0.0;0.0 0.0 0.0 0.0 1.0e-06 0.0;0.0 0.0 0.0 0.0 0.0 1.0e-06</DistortionCovariance>
+<MountingParameters>
+<BoreSight>
+<Omega>-42.0</Omega>
+<Phi>0.0</Phi>
+<Kappa>0.0</Kappa>
+<BoreSightCovariance>1.0e+9 0.0 0.0;0.0 1.0e+9 0.0;0.0 0.0 1.0e+9</BoreSightCovariance>
+</BoreSight>
+<LeverArm>
+<X>0.0</X>
+<Y>0.77</Y>
+<Z>-0.40</Z>
+<LeverArmCovariance>1.0e+9 0.0 0.0;0.0 1.0e+9 0.0;0.0 0.0 1.0e+9</LeverArmCovariance>
+</LeverArm>
+</MountingParameters>
+</Camera>
+</CameraBlock>

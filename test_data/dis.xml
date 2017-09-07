@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+
+<DistanceBlock>
+	<Distance>
+		<StartID>18</StartID>		
+		<EndID>68</EndID>
+		<Measurement>0.440</Measurement>
+		<Sigma>1.0e-6</Sigma>
+	</Distance>
+
+	<Distance>
+		<StartID>11</StartID>		
+		<EndID>61</EndID>
+		<Measurement>0.468</Measurement>
+		<Sigma>1.0e-6</Sigma>	
+	</Distance>
+
+	<Distance>
+		<StartID>11</StartID>		
+		<EndID>18</EndID>
+		<Measurement>0.722</Measurement>
+		<Sigma>1.0e-6</Sigma>	
+	</Distance>
+	
+	<Distance>
+		<StartID>61</StartID>		
+		<EndID>68</EndID>
+		<Measurement>0.7195</Measurement>
+		<Sigma>1.0e-6</Sigma>	
+	</Distance>
+	
+	<Distance>
+		<StartID>11</StartID>		
+		<EndID>68</EndID>
+		<Measurement>0.855</Measurement>
+		<Sigma>1.0e-6</Sigma>	
+	</Distance>
+	
+	<Distance>
+		<StartID>18</StartID>		
+		<EndID>61</EndID>
+		<Measurement>0.848</Measurement>
+		<Sigma>1.0e-6</Sigma>	
+	</Distance>	
+</DistanceBlock>

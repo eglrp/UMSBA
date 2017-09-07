@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Project>
+	<NumberOfIterations>100</NumberOfIterations>
+	<sigmaFixed>1e-5</sigmaFixed>
+	<sigmaFree>1e+6</sigmaFree>
+	<sigmaStop>1e-8</sigmaStop>
+	<DistanceAvailable>1</DistanceAvailable>
+	<PatchAvailable>0</PatchAvailable>
+</Project>

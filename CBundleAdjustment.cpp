@@ -8,6 +8,7 @@
 #include <opencv2/highgui.hpp>
 #include <opencv2/opencv.hpp>
 #include <algorithm>
+#include <omp.h>
 
 using namespace cv;
 
@@ -773,6 +774,7 @@ void CBundleAdjustment::createAndSolveCeresProblem(){
 
 	//!!!By default, the strategy type used is levenberg. Currently set to Dogleg
 	solverOptions.trust_region_strategy_type = ceres::TrustRegionStrategyType::DOGLEG;
+    solverOptions.dogleg_type = ceres::DoglegType::SUBSPACE_DOGLEG;
 	solverOptions.parameter_tolerance = sigmaStop;
 	solverOptions.linear_solver_type = ceres::LinearSolverType::SPARSE_NORMAL_CHOLESKY;
 	solverOptions.minimizer_progress_to_stdout = true;
@@ -836,7 +838,9 @@ void CBundleAdjustment::createAndSolveCeresProblem(){
 		}
 
 		ceres::Covariance::Options covarianceOptions;
-        covarianceOptions.sparse_linear_algebra_library_type = ceres::SparseLinearAlgebraLibraryType::EIGEN_SPARSE;
+        
+        // Ceres 1.13.0 updated the covariance algorithm solution calls
+        covarianceOptions.sparse_linear_algebra_library_type = ceres::SparseLinearAlgebraLibraryType::SUITE_SPARSE;
 		covarianceOptions.algorithm_type = ceres::CovarianceAlgorithmType::SPARSE_QR;
 		//Setting adapted from Mehdi's code
 		covarianceOptions.min_reciprocal_condition_number = 1e-200;

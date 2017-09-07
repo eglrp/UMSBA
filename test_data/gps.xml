@@ -1,0 +1,302 @@
+<Pos>
+	<EOP>
+		<Time>1</Time>
+		<Orientation>
+			<Omega>0</Omega>
+			<Phi>0</Phi>
+			<Kappa>-90</Kappa>
+		<OrientationCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</OrientationCovariance>
+		</Orientation>
+		<Position>
+		<X>0</X>
+		<Y>0</Y>
+			<Z>1.1</Z>
+		<PositionCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</PositionCovariance>
+		</Position>
+	</EOP>
+	<EOP>
+		<Time>2</Time>
+		<Orientation>
+			<Omega>0</Omega>
+			<Phi>-30</Phi>
+			<Kappa>-90</Kappa>
+		<OrientationCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</OrientationCovariance>
+		</Orientation>
+		<Position>
+		<X>-0.55</X>
+		<Y>0</Y>
+			<Z>0.95</Z>
+		<PositionCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</PositionCovariance>
+		</Position>
+	</EOP>
+	<EOP>
+		<Time>3</Time>
+		<Orientation>
+			<Omega>0</Omega>
+			<Phi>-45</Phi>
+			<Kappa>-90</Kappa>
+		<OrientationCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</OrientationCovariance>
+		</Orientation>
+		<Position>
+		<X>-0.78</X>
+		<Y>0</Y>
+			<Z>0.78</Z>
+		<PositionCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</PositionCovariance>
+		</Position>
+	</EOP>
+	<EOP>
+		<Time>4</Time>
+		<Orientation>
+			<Omega>0</Omega>
+			<Phi>30</Phi>
+			<Kappa>-90</Kappa>
+		<OrientationCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</OrientationCovariance>
+		</Orientation>
+		<Position>
+		<X>0.55</X>
+		<Y>0</Y>
+			<Z>0.95</Z>
+		<PositionCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</PositionCovariance>
+		</Position>
+	</EOP>
+	<EOP>
+		<Time>5</Time>
+		<Orientation>
+			<Omega>0</Omega>
+			<Phi>45</Phi>
+			<Kappa>-90</Kappa>
+		<OrientationCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</OrientationCovariance>
+		</Orientation>
+		<Position>
+		<X>0.78</X>
+		<Y>0</Y>
+			<Z>0.78</Z>
+		<PositionCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</PositionCovariance>
+		</Position>
+	</EOP>
+	<EOP>
+		<Time>6</Time>
+		<Orientation>
+			<Omega>0</Omega>
+			<Phi>0</Phi>
+			<Kappa>0</Kappa>
+		<OrientationCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</OrientationCovariance>
+		</Orientation>
+		<Position>
+		<X>0</X>
+		<Y>0</Y>
+			<Z>1.1</Z>
+		<PositionCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</PositionCovariance>
+		</Position>
+	</EOP>
+	<EOP>
+		<Time>7</Time>
+		<Orientation>
+			<Omega>15</Omega>
+			<Phi>0</Phi>
+			<Kappa>0</Kappa>
+		<OrientationCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</OrientationCovariance>
+		</Orientation>
+		<Position>
+		<X>0</X>
+		<Y>-0.28</Y>
+			<Z>1.06</Z>
+		<PositionCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</PositionCovariance>
+		</Position>
+	</EOP>
+	<EOP>
+		<Time>8</Time>
+		<Orientation>
+			<Omega>30</Omega>
+			<Phi>0</Phi>
+			<Kappa>0</Kappa>
+		<OrientationCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</OrientationCovariance>
+		</Orientation>
+		<Position>
+		<X>0</X>
+		<Y>-0.55</Y>
+			<Z>0.95</Z>
+		<PositionCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</PositionCovariance>
+		</Position>
+	</EOP>
+	<EOP>
+		<Time>9</Time>
+		<Orientation>
+			<Omega>45</Omega>
+			<Phi>0</Phi>
+			<Kappa>0</Kappa>
+		<OrientationCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</OrientationCovariance>
+		</Orientation>
+		<Position>
+		<X>0</X>
+		<Y>-0.78</Y>
+			<Z>0.78</Z>
+		<PositionCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</PositionCovariance>
+		</Position>
+	</EOP>
+	<EOP>
+		<Time>10</Time>
+		<Orientation>
+			<Omega>-15</Omega>
+			<Phi>0</Phi>
+			<Kappa>0</Kappa>
+		<OrientationCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</OrientationCovariance>
+		</Orientation>
+		<Position>
+		<X>0</X>
+		<Y>0.28</Y>
+			<Z>1.06</Z>
+		<PositionCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</PositionCovariance>
+		</Position>
+	</EOP>
+	<EOP>
+		<Time>11</Time>
+		<Orientation>
+			<Omega>-30</Omega>
+			<Phi>0</Phi>
+			<Kappa>0</Kappa>
+		<OrientationCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</OrientationCovariance>
+		</Orientation>
+		<Position>
+		<X>0</X>
+		<Y>0.55</Y>
+			<Z>0.95</Z>
+		<PositionCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</PositionCovariance>
+		</Position>
+	</EOP>
+	<EOP>
+		<Time>12</Time>
+		<Orientation>
+			<Omega>-45</Omega>
+			<Phi>0</Phi>
+			<Kappa>0</Kappa>
+		<OrientationCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</OrientationCovariance>
+		</Orientation>
+		<Position>
+		<X>0</X>
+		<Y>0.78</Y>
+			<Z>0.78</Z>
+		<PositionCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</PositionCovariance>
+		</Position>
+	</EOP>
+	<EOP>
+		<Time>13</Time>
+		<Orientation>
+			<Omega>0</Omega>
+			<Phi>-15</Phi>
+			<Kappa>0</Kappa>
+		<OrientationCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</OrientationCovariance>
+		</Orientation>
+		<Position>
+		<X>-0.28</X>
+		<Y>0</Y>
+			<Z>1.06</Z>
+		<PositionCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</PositionCovariance>
+		</Position>
+	</EOP>
+	<EOP>
+		<Time>14</Time>
+		<Orientation>
+			<Omega>0</Omega>
+			<Phi>-30</Phi>
+			<Kappa>0</Kappa>
+		<OrientationCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</OrientationCovariance>
+		</Orientation>
+		<Position>
+		<X>-0.55</X>
+		<Y>0</Y>
+			<Z>0.95</Z>
+		<PositionCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</PositionCovariance>
+		</Position>
+	</EOP>
+	<EOP>
+		<Time>15</Time>
+		<Orientation>
+			<Omega>0</Omega>
+			<Phi>15</Phi>
+			<Kappa>0</Kappa>
+		<OrientationCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</OrientationCovariance>
+		</Orientation>
+		<Position>
+		<X>0.28</X>
+		<Y>0</Y>
+			<Z>1.06</Z>
+		<PositionCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</PositionCovariance>
+		</Position>
+	</EOP>
+	<EOP>
+		<Time>16</Time>
+		<Orientation>
+			<Omega>0</Omega>
+			<Phi>30</Phi>
+			<Kappa>0</Kappa>
+		<OrientationCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</OrientationCovariance>
+		</Orientation>
+		<Position>
+		<X>0.55</X>
+		<Y>0</Y>
+			<Z>0.95</Z>
+		<PositionCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</PositionCovariance>
+		</Position>
+	</EOP>
+	<EOP>
+		<Time>17</Time>
+		<Orientation>
+			<Omega>45</Omega>
+			<Phi>-30</Phi>
+			<Kappa>0</Kappa>
+		<OrientationCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</OrientationCovariance>
+		</Orientation>
+		<Position>
+		<X>-0.39</X>
+		<Y>-0.78</Y>
+			<Z>0.67</Z>
+		<PositionCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</PositionCovariance>
+		</Position>
+	</EOP>
+	<EOP>
+		<Time>18</Time>
+		<Orientation>
+			<Omega>45</Omega>
+			<Phi>30</Phi>
+			<Kappa>0</Kappa>
+		<OrientationCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</OrientationCovariance>
+		</Orientation>
+		<Position>
+		<X>0.39</X>
+		<Y>-0.78</Y>
+			<Z>0.67</Z>
+		<PositionCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</PositionCovariance>
+		</Position>
+	</EOP>
+	<EOP>
+		<Time>19</Time>
+		<Orientation>
+			<Omega>-45</Omega>
+			<Phi>-30</Phi>
+			<Kappa>0</Kappa>
+		<OrientationCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</OrientationCovariance>
+		</Orientation>
+		<Position>
+		<X>-0.39</X>
+		<Y>0.78</Y>
+			<Z>0.67</Z>
+		<PositionCovariance>10000000 0 0;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</PositionCovariance>
+		</Position>
+	</EOP>
+	<EOP>
+		<Time>20</Time>
+		<Orientation>
+			<Omega>-45</Omega>
+			<Phi>30</Phi>
+			<Kappa>0</Kappa>
+		<OrientationCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</OrientationCovariance>
+		</Orientation>
+		<Position>
+		<X>0.39</X>
+		<Y>0.78</Y>
+			<Z>0.67</Z>
+		<PositionCovariance>1.00E+07 0.00E+00 0.00E+00;0.00E+00 1.00E+07 0.00E+00;0.00E+00 0.00E+00 1.00E+07		</PositionCovariance>
+		</Position>
+	</EOP>
+</Pos>
