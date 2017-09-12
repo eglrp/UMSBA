@@ -1,6 +1,6 @@
 #include "ReadWriteXML.h"
 
-int readXML(char *xmlFile, char *handlerRef){
+int readXML(const char* xmlFile, char *handlerRef){
 
 	try {
 		XMLPlatformUtils::Initialize();

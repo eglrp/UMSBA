@@ -10,4 +10,4 @@
 
 using namespace xercesc;
 
-int readXML(char *fileName, char *handlerRef);
+int readXML(const char *fileName, char *handlerRef);
